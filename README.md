@@ -1,2 +1,2 @@
 # RoSync
-[https://rosyncrbx.github.io/](Visit the RoSync website)
+[https://rosyncrbx.github.io](Visit the RoSync website)
